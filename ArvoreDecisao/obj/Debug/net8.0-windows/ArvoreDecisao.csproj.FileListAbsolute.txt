@@ -1,0 +1,16 @@
+D:\Projetos C#\ArvoreDecisao\ArvoreDecisao\bin\Debug\net8.0-windows\ArvoreDecisao.exe
+D:\Projetos C#\ArvoreDecisao\ArvoreDecisao\bin\Debug\net8.0-windows\ArvoreDecisao.deps.json
+D:\Projetos C#\ArvoreDecisao\ArvoreDecisao\bin\Debug\net8.0-windows\ArvoreDecisao.runtimeconfig.json
+D:\Projetos C#\ArvoreDecisao\ArvoreDecisao\bin\Debug\net8.0-windows\ArvoreDecisao.dll
+D:\Projetos C#\ArvoreDecisao\ArvoreDecisao\bin\Debug\net8.0-windows\ArvoreDecisao.pdb
+D:\Projetos C#\ArvoreDecisao\ArvoreDecisao\obj\Debug\net8.0-windows\ArvoreDecisao.Form1.resources
+D:\Projetos C#\ArvoreDecisao\ArvoreDecisao\obj\Debug\net8.0-windows\ArvoreDecisao.csproj.GenerateResource.cache
+D:\Projetos C#\ArvoreDecisao\ArvoreDecisao\obj\Debug\net8.0-windows\ArvoreDecisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\ArvoreDecisao\ArvoreDecisao\obj\Debug\net8.0-windows\ArvoreDecisao.AssemblyInfoInputs.cache
+D:\Projetos C#\ArvoreDecisao\ArvoreDecisao\obj\Debug\net8.0-windows\ArvoreDecisao.AssemblyInfo.cs
+D:\Projetos C#\ArvoreDecisao\ArvoreDecisao\obj\Debug\net8.0-windows\ArvoreDecisao.csproj.CoreCompileInputs.cache
+D:\Projetos C#\ArvoreDecisao\ArvoreDecisao\obj\Debug\net8.0-windows\ArvoreDecisao.dll
+D:\Projetos C#\ArvoreDecisao\ArvoreDecisao\obj\Debug\net8.0-windows\refint\ArvoreDecisao.dll
+D:\Projetos C#\ArvoreDecisao\ArvoreDecisao\obj\Debug\net8.0-windows\ArvoreDecisao.pdb
+D:\Projetos C#\ArvoreDecisao\ArvoreDecisao\obj\Debug\net8.0-windows\ArvoreDecisao.genruntimeconfig.cache
+D:\Projetos C#\ArvoreDecisao\ArvoreDecisao\obj\Debug\net8.0-windows\ref\ArvoreDecisao.dll
