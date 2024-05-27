@@ -22,7 +22,7 @@
     <li>Java</li>
   </ul>
 
-##  O sistema deverá ter um Back-End como:
+### O sistema deverá ter um Back-End como:
   <ul>
    <li>C#</li>
    <li>C++</li>
@@ -30,3 +30,7 @@
    <li>PHP</li>
    <li>Python</li>
   </ul>
+</br>
+
+## 📖🤓 Exercicio Proposto 🤓📖
+<img width="791" alt="Capturar" src="https://github.com/VitorSolerAguilar/Arvore-de-Decisao/assets/83377382/a3cae8c4-3d56-45f1-8fbf-a376813f85ce">
