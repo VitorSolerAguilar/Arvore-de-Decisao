@@ -36,5 +36,5 @@
 ### A padaria do seu Claudisney está precisando de novos insvestimentos, com isso, o departamento que toma conta das finanças decidiu dar algumas opções para o seu Claudisney investir: 
 <img width="802" alt="Capturar" src="https://github.com/VitorSolerAguilar/Arvore-de-Decisao/assets/83377382/b030d4ce-247d-486d-b637-4fa4528432b4">
 
-### Resolução
+### 🙌🙏 Resolução 🙏🙌
 <img width="701" alt="Capturar" src="https://github.com/VitorSolerAguilar/Arvore-de-Decisao/assets/83377382/e347720d-1dfa-4aed-b101-71ace5647031">
